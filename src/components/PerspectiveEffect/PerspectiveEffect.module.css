@@ -1,4 +1,4 @@
-.block {
+.perspective {
   position: fixed;
   top: 60%;
   bottom: 0;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 480px) {
-  .block {
+  .perspective {
     display: none;
   }
 }

@@ -19,14 +19,13 @@
     max-width: 200px;
     overflow: hidden;
     margin-bottom: 0;
-    padding-bottom: 80px;
+    padding-bottom: 96px;
   }
 }
 
 .title {
   margin: 0;
   /* Optical centering */
-  margin-bottom: 14px;
 }
 
 .metadata {
