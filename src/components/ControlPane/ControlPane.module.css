@@ -14,7 +14,9 @@
 
 @media (max-width: 480px) {
   .controlPane {
-    max-width: 90%;
+    min-width: 90%;
+    max-width: 200px;
+    overflow: hidden;
   }
 }
 

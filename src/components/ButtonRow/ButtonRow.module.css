@@ -1,5 +1,9 @@
 .buttonRow {
-  white-space: nowrap;
   overflow-x: auto;
+  display: flex;
   padding-bottom: 8px;
+}
+
+.buttonRow > * {
+  min-width: 50px;
 }
