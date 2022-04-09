@@ -10,6 +10,7 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  position: relative;
 }
 
 @media (max-width: 480px) {
@@ -17,6 +18,8 @@
     min-width: 90%;
     max-width: 200px;
     overflow: hidden;
+    margin-bottom: 0;
+    padding-bottom: 80px;
   }
 }
 
